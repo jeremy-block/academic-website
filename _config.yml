@@ -12,7 +12,7 @@ title: Dumbarton
 email: 
 description: a minimalistic jekyll theme for academics
 baseurl: "/academic-website"                                       # the subpath of your site, e.g. /blog
-url: "https://jeremy-block.github.io"          # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jeremy-block.github.io/academic-website/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
