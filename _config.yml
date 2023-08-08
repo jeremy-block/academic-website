@@ -13,14 +13,14 @@ email:
 description: a minimalistic jekyll theme for academics
 baseurl: "/academic-website"                                       # the subpath of your site, e.g. /blog
 url: "https://jeremy-block.github.io/academic-website/"          # the base hostname & protocol for your site, e.g. http://example.com
-image: /assets/img/dumbarton.png               # used to generate site link preview
+image: /academic-website/assets/img/dumbarton.png               # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
 # =======================================#
 # -----------SITE SETTINGS---------------#
 #========================================#: 
 author: John Doe 
-profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
+profile_image: /academic-website/assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
 occupation: 
 snippet:
 twitter: tbutler0x90
