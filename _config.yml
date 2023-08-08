@@ -82,7 +82,8 @@ help_tips: false                                    # options: true, false  | us
 # =======================================#
 # -----------BUILD SETTINGS--------------#
 #========================================#
-theme: 
+# theme: Minimal #Github pages requires a theme to make the site live. Not sure if this will work.
+remote_theme: jekyll-scholar # this is the theme the original template expects. Trying to load it externally.
 markdown: kramdown
 
 kramdown:
